@@ -8,7 +8,7 @@ This GitHub is less of a portfolio and more of a living workshop — a collectio
 
 Beyond the terminal, I’m usually doomscrolling past midnight about self-growth reels.
 
-If something here sparks a “this could actually ship” reaction, let’s build something ambitious together. - (Resume)[https://drive.google.com/file/d/1_0fqBfxj-khassaEoieKqDRIAf7ZFUrd/view?usp=sharing]
+If something here sparks a “this could actually ship” reaction, let’s build something ambitious together. - [My Resume](https://drive.google.com/file/d/1_0fqBfxj-khassaEoieKqDRIAf7ZFUrd/view?usp=sharing)
 
 
 ## 🌐 Socials:
