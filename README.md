@@ -1,5 +1,15 @@
 ## Hi there 👋, I am Aryan Pundir
 
+I’m currently studying Computer Science at DTU, where most of my time is spent thinking about how intelligent systems can move from cool demos to dependable, scalable products. I’m drawn to the space where machine learning, multimodal LLM workflows, and backend architecture collide — the part where ideas either break under scale or evolve into something production-ready.
+
+What excites me isn’t just building models, but engineering the ecosystem around them: tightening inference latency, structuring cloud-native pipelines, managing GPU workloads, and making AI systems behave reliably in messy real-world conditions. I care about clarity in design, performance under pressure, and building systems that feel seamless to the end user.
+
+This GitHub is less of a portfolio and more of a living workshop — a collection of experiments, deep dives, rebuilds, and lessons learned while chasing better architectures.
+
+Beyond the terminal, I’m usually doomscrolling past midnight about self-growth reels.
+
+If something here sparks a “this could actually ship” reaction, let’s build something ambitious together. - (Resume)[https://drive.google.com/file/d/1_0fqBfxj-khassaEoieKqDRIAf7ZFUrd/view?usp=sharing]
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-pundir-85a36730b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanpundirofficial@gmail.com) 
